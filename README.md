@@ -11,4 +11,4 @@ Fun Facts
 - Neovim, btw
 - Golang, btw
 
-<img width="582" alt="Screenshot 2024-11-01 at 5 19 56 PM" src="https://github.com/user-attachments/assets/500f1a88-1ac0-487a-ac29-681ec884e367">
+<img width="350" alt="Screenshot 2024-11-01 at 5 19 56 PM" src="https://github.com/user-attachments/assets/500f1a88-1ac0-487a-ac29-681ec884e367">
