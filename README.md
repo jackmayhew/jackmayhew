@@ -7,6 +7,7 @@ Fun Facts
 - Nonprofit web volunteer
 - Mediocre bass player
 - Vancouver Island → Montreal
+- Carpentry → Web Development
 - Nuxt > Next
 - Neovim, btw
 - Golang, btw
