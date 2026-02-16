@@ -10,4 +10,3 @@ Fun Facts
 - Carpentry → Web Development
 - Nuxt > Next
 - Neovim, btw
-- Golang, btw
